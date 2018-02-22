@@ -1,0 +1,12 @@
+name: WordPredictionApp
+title: WordPredictionApp
+username:
+account: ramumartha1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 286652
+bundleId: 1234429
+url: https://ramumartha1.shinyapps.io/WordPredictionApp/
+when: 1519264958.23495
+asMultiple: FALSE
+asStatic: FALSE
